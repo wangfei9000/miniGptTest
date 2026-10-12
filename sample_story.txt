@@ -1,0 +1,41 @@
+The following stories were generated starting with: 'Once upon a time there was a boy '
+
+MiniStoryGPT (20M)
+Once upon a time there was a boy  He had a toy car. One day he was playing when he noticed a door open. He opened the door and saw a big wardrobe!
+
+He went closer and he started to pull and open the door. Suddenly, a deep voice shouted out: "Stop!"
+
+The boy stopped and looked around. He saw an old man standing inside the wardrobe. The old man replied: "I need to pull!"
+
+The boy said:"Ok, I will help you."
+
+The old man started to pull the wardrobe with all his might. It was hard work, but he kept tugging until the wardrobe finally opened!
+
+The boy smiled. "Thank you very much," he said happily.
+
+The old man. "You're welcome," he said. "You're a very smart boy."
+
+And he hugged the old man and hugged him back.
+
+The old man thanked him just in time and walked away. The boy was very happy. From then on, he always remembered the old man's help 
+
+
+For comparison:
+
+Qwen/Qwen3-0.6B-Base (596M Params)
+https://huggingface.co/Qwen/Qwen3-0.6B-Base
+
+Once upon a time there was a boy 10 years old. He used to play in the river by himself every day.
+He always got lost, and he had no idea how to get home safely.
+
+One day when it rained heavily ,he wanted to go back into town .
+But before leaving his house,the rain came down harder than ever!
+So he decided that if he could find an umbrella then everything would be OK!
+
+"Who can I see?" The little one said loudly ."I want someone so much!" "Well, let's try everyone at this place," A woman answered."And what do you think is my name?"
+
+The young man thought for awhile about her answer,and finally chose two words ,"Rainy or sunny!"
+
+The girl smiled happily as she heard these answers: "Oh, your name will never change."
+"My true name isn't Rainy or Sunny but 'Ginny' which means gentle."
+

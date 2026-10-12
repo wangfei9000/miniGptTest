@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+reports/
+data/
+*.log
+MiniStoryGPT-30M.pth
